@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="texta">Birinci Sayıyı Gir</string>
+    <string name="textb">İkinci Sayıyı Gir</string>
+    <string name="textbt">Topla</string>
+    <string name="textc">...</string>
 </resources>
